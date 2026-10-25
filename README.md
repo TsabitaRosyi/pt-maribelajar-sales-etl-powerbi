@@ -41,7 +41,8 @@ Proyek ini mengikuti tahapan Data Mining dan arsitektur ETL yang sistematis:
 
 ## 📁 Struktur Repository
 ```text
-├── dataset/               # Berisi file sumber data Excel (Product, Sales, Supervisor)
-├── dashboard/             # File laporan Power BI (.pbix)
-├── images/                # Tangkapan layar dashboard dan diagram alir
-└── README.md              # Dokumentasi proyek
+├── Product.xlsx,Sales Data.xlsx,Supervisor.xlsx/               # Berisi file sumber data Excel (Product, Sales, Supervisor)
+├── sales PT MARI BELAJAR.pbix/                                 # File laporan Power BI (.pbix)
+├── Poster.png/                                                # Tangkapan layar dashboard dan diagram alir
+├── Laporan.pdf                                                 # Laporan Hasil
+└── README.md                                                    # Dokumentasi proyek
