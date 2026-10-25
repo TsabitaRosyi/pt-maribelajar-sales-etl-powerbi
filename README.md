@@ -1,6 +1,6 @@
 # 📊 Analisis Penjualan PT MariBelajar (ETL & Power BI Dashboard)
 
-Repository ini berisi laporan akhir dan proyek *Project-Based Learning* untuk mata kuliah **Data Mining II**[cite: 2]. Proyek ini bertujuan untuk membangun alur kerja **ETL (Extract, Transform, Load)** dan merancang dashboard interaktif menggunakan **Microsoft Power BI** guna menganalisis performa penjualan PT MariBelajar[cite: 6, 13].
+Repository ini berisi laporan akhir dan proyek *Project-Based Learning* untuk mata kuliah **Data Mining II**[cite: 2]. Proyek ini bertujuan untuk membangun alur kerja **ETL (Extract, Transform, Load)** dan merancang dashboard interaktif menggunakan **Microsoft Power BI** guna menganalisis performa penjualan PT MariBelajar.
 
 ---
 
@@ -19,6 +19,11 @@ Proyek ini mengikuti tahapan Data Mining dan arsitektur ETL yang sistematis:
 7. **Analisis & Interpretasi Hasil:** Mengevaluasi tren penjualan berdasarkan waktu, produk unggulan (*Top 10 Products*), serta performa supervisor dan karyawan[cite: 14, 16, 17].
 
 ---
+
+<img width="1998" height="1106" alt="image" src="https://github.com/user-attachments/assets/7a65020a-bc53-4b53-b2e0-45ceac16d674" />
+
+<img width="1146" height="640" alt="image" src="https://github.com/user-attachments/assets/945bb064-404a-4dcd-bd3a-9ffaf1c872b0" />
+
 
 ## 📈 Ringkasan Hasil Analisis
 * **Periode Pengamatan:** 1 Januari 2019 – 20 April 2019[cite: 15, 20]
