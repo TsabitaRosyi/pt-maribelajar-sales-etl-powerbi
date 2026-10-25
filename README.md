@@ -4,15 +4,6 @@ Repository ini berisi laporan akhir dan proyek *Project-Based Learning* untuk ma
 
 ---
 
-## 👥 Tim Penyusun (Kelompok VI - Kelas B)
-* **Armalia Kusuma Putri** (22083010004)[cite: 2]
-* **Tsabita Rosyidah Putri** (22083010012)[cite: 2]
-* **Winna Dhestyan Putri** (22083010015)[cite: 2]
-* **Hanif Ziva Zavira** (22083010078)[cite: 2]
-* **Dosen Pengampu:** Kartika Maulida Hindrayani, S.Kom., M.Kom.[cite: 2]
-
----
-
 ## 🏗️ Alur Proses Penerapan (Workflow)
 Proyek ini mengikuti tahapan Data Mining dan arsitektur ETL yang sistematis:
 1. **Menyiapkan Data Sumber:** Menggunakan dataset operasional PT MariBelajar dalam format Excel yang terdiri dari tabel *Product*, *Sales*, dan *Supervisor*[cite: 8, 11].
